@@ -1,5 +1,5 @@
 # spaceflight_news
-App to show the latest news related to space.
+Flutter app to show the latest news related to space.
 
 Flutter Version - 2.0.6
 VS Code - 1.56.2
