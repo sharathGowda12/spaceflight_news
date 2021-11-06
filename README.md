@@ -26,7 +26,6 @@ Run 'flutter clean' and 'flutter pub get' if the errors shows at the start.
 - Icon of the empty container shown in the feed screen is somewhat different from the one shown in Figma / design. Refer to line no. 25 in `lib/widgets/empty_container.dart` for further details.
 - Image `assets/placeHolder.jpeg` is used both as a placeholder for article images and background image for the main screen.
 - splash screen added for both android & iOS
-- App is tested on Samsung Galaxy S9 and iPhone 11 emulators only.
 
 
 **Tests**
